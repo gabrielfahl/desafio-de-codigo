@@ -1,2 +1,3 @@
 frase = input("Digite a frase: ")
-print(frase)
+invertido_frase = " ".join(reversed(frase.split()))
+print(invertido_frase.strip())
