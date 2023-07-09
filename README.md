@@ -1,6 +1,8 @@
 # desafio-de-codigo
 
 > desafio de código para programa de estágio pwc
+> feito em pyton
+> Status : Concluido
 
 Manipulação de Strings
 
